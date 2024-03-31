@@ -1,0 +1,1 @@
+g++ -o main.exe main.cpp util.cpp Solucao_inicial.cpp Movimentos.cpp CalculoFO.cpp Grasp.cpp BuscaLocal.cpp 

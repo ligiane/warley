@@ -38,7 +38,7 @@ int **cria_matriz_int(int nlinhas, int ncolunas)
 }
 
 
-double **cria_matriz_double(int nlinhas, int ncolunas)
+double** cria_matriz_double(int nlinhas, int ncolunas)
 {
   register int i;
   double **matriz;
@@ -247,7 +247,7 @@ bool not_in(int *lista, int valor, int tamanho){
 }
 
 void cria_matriz_a_4(int n, double chi, double alf, double delta, int b, int** lambda, double** d, double**** alfaa) {
-    // faz o cálculo dos alfas e dos lambdas.
+    // faz o cï¿½lculo dos alfas e dos lambdas.
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < n; j++) {
             for (int k = 0; k < n; k++) {
