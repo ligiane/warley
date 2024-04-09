@@ -1,0 +1,457 @@
+# depslib dependency file v1.0
+1700855128 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<iostream>
+	<conio.h>
+	<limits.h>
+	<time.h>
+	"util.h"
+	"Movimentos.h"
+	"Solucao_inicial.h"
+	"BuscaLocal.h"
+	"CalculoFO.h"
+	<fstream>
+	<vector>
+
+1700851229 c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\util.h
+
+1700336622 c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\movimentos.h
+
+1700338659 c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\solucao_inicial.h
+
+1700338469 c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\buscalocal.h
+
+1700337368 c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\calculofo.h
+
+1700852864 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\buscalocalq.cpp
+	<bits/stdc++.h>
+	"BuscaLocal.h"
+	"Movimentos.h"
+	"CalculoFO.h"
+
+1700852896 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\calculofo2.cpp
+	<bits/stdc++.h>
+	"CalculoFO.h"
+
+1700852925 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\movimentos2.cpp
+	<bits/stdc++.h>
+	"util.h"
+	"CalculoFO.h"
+
+1700852960 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\solucao_inicial2.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<iostream>
+	<conio.h>
+	<limits.h>
+	<bits/stdc++.h>
+	"util.h"
+	"Movimentos.h"
+	"Solucao_inicial.h"
+
+1700852988 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\util2.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<limits.h>
+	<time.h>
+	"util.h"
+
+1700852864 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\buscalocal.cpp
+	<bits/stdc++.h>
+	"BuscaLocal.h"
+	"Movimentos.h"
+	"CalculoFO.h"
+
+1700852896 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\calculofo.cpp
+	<bits/stdc++.h>
+	"CalculoFO.h"
+
+1700852925 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\movimentos.cpp
+	<bits/stdc++.h>
+	"util.h"
+	"CalculoFO.h"
+
+1700854387 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\solucao_inicial.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<iostream>
+	<conio.h>
+	<limits.h>
+	<bits/stdc++.h>
+	"util.h"
+	"Movimentos.h"
+	"Solucao_inicial.h"
+
+1700854439 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\util.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<limits.h>
+	<time.h>
+	"util.h"
+
+1702666853 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\antigo\buscalocal.cpp
+	<bits/stdc++.h>
+	"BuscaLocal.h"
+	"Movimentos.h"
+	"CalculoFO.h"
+
+1702662447 c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\antigo\buscalocal.h
+
+1702662257 c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\antigo\movimentos.h
+
+1702662157 c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\antigo\calculofo.h
+
+1702663546 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\antigo\calculofo.cpp
+	<bits/stdc++.h>
+	"util.h"
+	"CalculoFO.h"
+
+1702666032 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\antigo\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<iostream>
+	<conio.h>
+	<limits.h>
+	<time.h>
+	"util.h"
+	"Movimentos.h"
+	"Solucao_inicial.h"
+	"BuscaLocal.h"
+	"CalculoFO.h"
+	"Grasp.h"
+	<fstream>
+	<vector>
+
+1702662476 c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\antigo\util.h
+
+1700338659 c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\antigo\solucao_inicial.h
+
+1702666811 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\antigo\movimentos.cpp
+	<bits/stdc++.h>
+	"util.h"
+	"Solucao_inicial.h"
+	"CalculoFO.h"
+
+1702664648 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\antigo\util.cpp
+	<bits/stdc++.h>
+	"util.h"
+
+1702666242 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\antigo\solucao_inicial.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<iostream>
+	<conio.h>
+	<limits.h>
+	<bits/stdc++.h>
+	"util.h"
+	"Movimentos.h"
+	"Solucao_inicial.h"
+
+1702662340 c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\antigo\grasp.h
+
+1702664750 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\antigo\grasp.cpp
+	<bits/stdc++.h>
+	"util.h"
+	"BuscaLocal.h"
+	"CalculoFO.h"
+	"Solucao_inicial.h"
+
+1702666853 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\atual\buscalocal.cpp
+	<bits/stdc++.h>
+	"BuscaLocal.h"
+	"Movimentos.h"
+	"CalculoFO.h"
+
+1702662447 c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\atual\buscalocal.h
+
+1702662257 c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\atual\movimentos.h
+
+1702662157 c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\atual\calculofo.h
+
+1702663546 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\atual\calculofo.cpp
+	<bits/stdc++.h>
+	"util.h"
+	"CalculoFO.h"
+
+1702662476 c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\atual\util.h
+
+1702908814 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\atual\grasp.cpp
+	<bits/stdc++.h>
+	"util.h"
+	"BuscaLocal.h"
+	"CalculoFO.h"
+	"Solucao_inicial.h"
+
+1700338659 c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\atual\solucao_inicial.h
+
+1711472771 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\atual\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<iostream>
+	<conio.h>
+	<limits.h>
+	<time.h>
+	"util.h"
+	"Movimentos.h"
+	"Solucao_inicial.h"
+	"BuscaLocal.h"
+	"CalculoFO.h"
+	"Grasp.h"
+	<fstream>
+	<vector>
+
+1702662340 c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\atual\grasp.h
+
+1706725378 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\atual\movimentos.cpp
+	<bits/stdc++.h>
+	"util.h"
+	"Solucao_inicial.h"
+	"CalculoFO.h"
+
+1702666242 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\atual\solucao_inicial.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<iostream>
+	<conio.h>
+	<limits.h>
+	<bits/stdc++.h>
+	"util.h"
+	"Movimentos.h"
+	"Solucao_inicial.h"
+
+1702664648 source:c:\users\arian\onedrive\햞ea de trabalho\warley\magnus\temp\usaphmcp_warley\atual\util.cpp
+	<bits/stdc++.h>
+	"util.h"
+
+1702666853 source:c:\users\arian\onedrive\햞ea de trabalho\atual\buscalocal.cpp
+	<bits/stdc++.h>
+	"BuscaLocal.h"
+	"Movimentos.h"
+	"CalculoFO.h"
+
+1702662447 c:\users\arian\onedrive\햞ea de trabalho\atual\buscalocal.h
+
+1702662257 c:\users\arian\onedrive\햞ea de trabalho\atual\movimentos.h
+
+1702662157 c:\users\arian\onedrive\햞ea de trabalho\atual\calculofo.h
+
+1702663546 source:c:\users\arian\onedrive\햞ea de trabalho\atual\calculofo.cpp
+	<bits/stdc++.h>
+	"util.h"
+	"CalculoFO.h"
+
+1702662476 c:\users\arian\onedrive\햞ea de trabalho\atual\util.h
+
+1702908814 source:c:\users\arian\onedrive\햞ea de trabalho\atual\grasp.cpp
+	<bits/stdc++.h>
+	"util.h"
+	"BuscaLocal.h"
+	"CalculoFO.h"
+	"Solucao_inicial.h"
+
+1700338659 c:\users\arian\onedrive\햞ea de trabalho\atual\solucao_inicial.h
+
+1711472771 source:c:\users\arian\onedrive\햞ea de trabalho\atual\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<iostream>
+	<conio.h>
+	<limits.h>
+	<time.h>
+	"util.h"
+	"Movimentos.h"
+	"Solucao_inicial.h"
+	"BuscaLocal.h"
+	"CalculoFO.h"
+	"Grasp.h"
+	<fstream>
+	<vector>
+
+1702662340 c:\users\arian\onedrive\햞ea de trabalho\atual\grasp.h
+
+1706725378 source:c:\users\arian\onedrive\햞ea de trabalho\atual\movimentos.cpp
+	<bits/stdc++.h>
+	"util.h"
+	"Solucao_inicial.h"
+	"CalculoFO.h"
+
+1702666242 source:c:\users\arian\onedrive\햞ea de trabalho\atual\solucao_inicial.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<iostream>
+	<conio.h>
+	<limits.h>
+	<bits/stdc++.h>
+	"util.h"
+	"Movimentos.h"
+	"Solucao_inicial.h"
+
+1702664648 source:c:\users\arian\onedrive\햞ea de trabalho\atual\util.cpp
+	<bits/stdc++.h>
+	"util.h"
+
+1702666853 source:c:\users\s902979206\workspace\github\ligiane\warley\projeto\buscalocal.cpp
+	<bits/stdc++.h>
+	"BuscaLocal.h"
+	"Movimentos.h"
+	"CalculoFO.h"
+
+1702662447 c:\users\s902979206\workspace\github\ligiane\warley\projeto\buscalocal.h
+
+1702662257 c:\users\s902979206\workspace\github\ligiane\warley\projeto\movimentos.h
+
+1702662157 c:\users\s902979206\workspace\github\ligiane\warley\projeto\calculofo.h
+
+1702663546 source:c:\users\s902979206\workspace\github\ligiane\warley\projeto\calculofo.cpp
+	<bits/stdc++.h>
+	"util.h"
+	"CalculoFO.h"
+
+1702662476 c:\users\s902979206\workspace\github\ligiane\warley\projeto\util.h
+
+1702908814 source:c:\users\s902979206\workspace\github\ligiane\warley\projeto\grasp.cpp
+	<bits/stdc++.h>
+	"util.h"
+	"BuscaLocal.h"
+	"CalculoFO.h"
+	"Solucao_inicial.h"
+
+1700338659 c:\users\s902979206\workspace\github\ligiane\warley\projeto\solucao_inicial.h
+
+1711472771 source:c:\users\s902979206\workspace\github\ligiane\warley\projeto\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<iostream>
+	<conio.h>
+	<limits.h>
+	<time.h>
+	"util.h"
+	"Movimentos.h"
+	"Solucao_inicial.h"
+	"BuscaLocal.h"
+	"CalculoFO.h"
+	"Grasp.h"
+	<fstream>
+	<vector>
+
+1702662340 c:\users\s902979206\workspace\github\ligiane\warley\projeto\grasp.h
+
+1706725378 source:c:\users\s902979206\workspace\github\ligiane\warley\projeto\movimentos.cpp
+	<bits/stdc++.h>
+	"util.h"
+	"Solucao_inicial.h"
+	"CalculoFO.h"
+
+1702666242 source:c:\users\s902979206\workspace\github\ligiane\warley\projeto\solucao_inicial.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<iostream>
+	<conio.h>
+	<limits.h>
+	<bits/stdc++.h>
+	"util.h"
+	"Movimentos.h"
+	"Solucao_inicial.h"
+
+1702664648 source:c:\users\s902979206\workspace\github\ligiane\warley\projeto\util.cpp
+	<bits/stdc++.h>
+	"util.h"
+
+1702666853 source:c:\users\s902979206\workspace\github\ligiane\warley\buscalocal.cpp
+	<bits/stdc++.h>
+	"BuscaLocal.h"
+	"Movimentos.h"
+	"CalculoFO.h"
+
+1702662447 c:\users\s902979206\workspace\github\ligiane\warley\buscalocal.h
+
+1702662257 c:\users\s902979206\workspace\github\ligiane\warley\movimentos.h
+
+1702662157 c:\users\s902979206\workspace\github\ligiane\warley\calculofo.h
+
+1702663546 source:c:\users\s902979206\workspace\github\ligiane\warley\calculofo.cpp
+	<bits/stdc++.h>
+	"util.h"
+	"CalculoFO.h"
+
+1702662476 c:\users\s902979206\workspace\github\ligiane\warley\util.h
+
+1702908814 source:c:\users\s902979206\workspace\github\ligiane\warley\grasp.cpp
+	<bits/stdc++.h>
+	"util.h"
+	"BuscaLocal.h"
+	"CalculoFO.h"
+	"Solucao_inicial.h"
+
+1700338659 c:\users\s902979206\workspace\github\ligiane\warley\solucao_inicial.h
+
+1711472771 source:c:\users\s902979206\workspace\github\ligiane\warley\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<iostream>
+	<conio.h>
+	<limits.h>
+	<time.h>
+	"util.h"
+	"Movimentos.h"
+	"Solucao_inicial.h"
+	"BuscaLocal.h"
+	"CalculoFO.h"
+	"Grasp.h"
+	<fstream>
+	<vector>
+
+1702662340 c:\users\s902979206\workspace\github\ligiane\warley\grasp.h
+
+1706725378 source:c:\users\s902979206\workspace\github\ligiane\warley\movimentos.cpp
+	<bits/stdc++.h>
+	"util.h"
+	"Solucao_inicial.h"
+	"CalculoFO.h"
+
+1702666242 source:c:\users\s902979206\workspace\github\ligiane\warley\solucao_inicial.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<iostream>
+	<conio.h>
+	<limits.h>
+	<bits/stdc++.h>
+	"util.h"
+	"Movimentos.h"
+	"Solucao_inicial.h"
+
+1702664648 source:c:\users\s902979206\workspace\github\ligiane\warley\util.cpp
+	<bits/stdc++.h>
+	"util.h"
+
